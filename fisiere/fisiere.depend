@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672756954 source:c:\users\raluc\onedrive\documente\exercise\fisiere\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
